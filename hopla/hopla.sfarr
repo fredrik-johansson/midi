@@ -20,7 +20,7 @@ Track 3 Sf2 Prog=C:\scopy\SGM-V2.01.sf2>0:27
 Track 3 extras=236,0,0,0,0,1,-1,255,2,
 Track 3 Ignore Bank Numbers=0
 Track 4 Sf2 Prog=C:\scopy\SGM-V2.01.sf2>0:35
-Track 4 extras=254,0,0,0,0,1,-1,255,2,
+Track 4 extras=206,0,0,0,0,1,-1,255,2,
 Track 4 Ignore Bank Numbers=0
 Track 5 Sf2 Prog=C:\scopy\SGM-V2.01.sf2>128:0
 Track 5 extras=180,0,0,0,0,1,-1,255,2,
@@ -45,7 +45,7 @@ Tuning root key=0
 BMP factor=1065353216
 Soft clipping=1
 Final decay time=2
-Selected track=4
+Selected track=3
 Track 1 LockPresetLive=0
 Track 2 LockPresetLive=0
 Track 3 LockPresetLive=0
@@ -104,6 +104,11 @@ Low Pass filter type=2
 7=Track 7
 8=Track 8
 9=Track 9
+
+[FreeverbToo(1) Prog16]
+Name=!Medium Room 2  (Insert)
+Block0=7132083E85EB113F8FC2753DA4707D3FA4707D3F0000803F0000003F0000803F000000000000803F295C0F3E0C02AB3EC9763E3E0000403E3333133F00000000
+Blocks=64
 
 [VST Effects]
 Bypass all=0
