@@ -47,7 +47,6 @@ Track 4 LockPresetLive=0
 Track 5 LockPresetLive=0
 Track 6 LockPresetLive=0
 Track 7 LockPresetLive=0
-Tracks order=1,2,3,4,5,6,7
 
 [Pan spread]
 Track 1=0,100,100,0

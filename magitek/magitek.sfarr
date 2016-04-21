@@ -54,7 +54,6 @@ Tuning root key=0
 BMP factor=1065353216
 Final decay time=2
 Selected track=3
-Tracks order=1,2,3,4,5,6,7,8,9
 
 [Track names]
 1=Track 1

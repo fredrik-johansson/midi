@@ -6,7 +6,7 @@ Rearrange split tracks=1
 [Arrangement]
 Num Audio Tracks=0
 Num Layer Tracks=0
-Midi file=bossblas.mid
+Midi file=boss_blaster.mid
 Play Tracks=,1,1,1,1,1,1,1
 Active Tracks=,1,1,1,1,1,1,1
 MidiChnl to VSTBus=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -46,7 +46,6 @@ Tuning root key=0
 BMP factor=1065353216
 Final decay time=2
 Selected track=3
-Tracks order=1,2,3,4,5,6,7
 
 [Track names]
 1=Track 1
