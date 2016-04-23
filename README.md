@@ -7,6 +7,7 @@ This repository contains a small fraction of the >1800 MIDI files I've made sinc
 MP3 renditions are available:
 
 * [1a2a3a.mp3](http://fredrikj.net/midi/1a2a3a.mp3) rock/metal/electronic [3:43]
+* [black_hole_rift.mp3](http://fredrikj.net/midi/black_hole_rift.mp3) orchestral/rock/electronic [6:36]
 * [boss_blaster.mp3](http://fredrikj.net/midi/boss_blaster.mp3) orchestral/rock/jazz [5:20]
 * [cabal.mp3](http://fredrikj.net/midi/cabal.mp3) classical/orchestral [2:00]
 * [harmonic.mp3](http://fredrikj.net/midi/harmonic.mp3) classical/piano [1:32]
