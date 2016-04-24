@@ -17,6 +17,7 @@ MP3 renditions are available:
 * [magitek.mp3](http://fredrikj.net/midi/magitek.mp3) rock/jazz/electronic [4:02]
 * [mansion.mp3](http://fredrikj.net/midi/mansion.mp3) classical/orchestral/piano [4:37]
 * [rain_clouds.mp3](http://fredrikj.net/midi/rain_clouds.mp3) classical/orchestral [4:19]
+* [regal.mp3](http://fredrikj.net/midi/regal.mp3) classical/piano [4:44]
 * [tarpit.mp3](http://fredrikj.net/midi/tarpit.mp3) classical/orchestral [1:14]
 
 Licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
