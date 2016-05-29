@@ -44,6 +44,7 @@ Track 8 extras=125,0,0,0,0,1,-1,255,2,
 Track 8 Ignore Bank Numbers=0
 Track 9 LockPresetLive=0
 Track 9 Sf2 Prog=C:\scopy\SGM-V2.01.sf2>0:40
+Track 9 extras=191,0,0,0,0,1,-1,255,2,
 Track 9 Ignore Bank Numbers=0
 Track 10 LockPresetLive=0
 Track 10 Sf2 Prog=C:\scopy\SGM-V2.01.sf2>0:48
@@ -60,7 +61,7 @@ Tuning scale=Equal Temperament
 Tuning root key=0
 BMP factor=1065353216
 Final decay time=2
-Selected track=9
+Selected track=10
 Tracks order=1,2,3,4,5,6,7,8,9,10,11
 
 [Track names]
